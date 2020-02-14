@@ -27,9 +27,11 @@ h3 {
 
 p {
  font-size: 20pt; 
- margin-left: 200pt;
- margin-right: 200pt;
+ margin-left: 10%;
+ margin-right: 10%;
 }
+
+
 
 blinking {
    animation-duration: 200ms;
