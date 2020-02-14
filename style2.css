@@ -27,11 +27,11 @@ h3 {
 
 p {
  font-size: 20pt; 
- margin-right: 200pt;
- margin-left: 200pt;
+ margin-right: 50pt;
+ margin-left: 50pt;
 }
 
-@media only screen and (max-width: 1200px){
+@media only screen and (max-width: 1300px){
    p {
       font-size: 15pt;
       margin-left: 5pt;
